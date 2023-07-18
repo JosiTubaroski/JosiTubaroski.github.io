@@ -1,7 +1,10 @@
-# Site
+<h1 align="center">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+ Sobre o objetivo do site 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
 O site tem como objetivo principal, apresentar uma trilha de estudos e projetos em Dados
-
 
 A análise de dados é extremamente importante em diversas áreas e setores, e desempenha um papel fundamental nas seguintes áreas:
 
